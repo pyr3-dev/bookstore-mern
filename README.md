@@ -14,7 +14,7 @@ The frontend uses `vite, react, react-router-dom, tailwindcss, notistack and axi
 
 Backend
 
-`MongoDB` - is used for Database|
+`MongoDB` - is used for Database
 
 `Node.js` - is a javascript runtime
 
